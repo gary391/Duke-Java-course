@@ -54,7 +54,7 @@ public class Part3 {
 
 //        String x = "hel!";
 //        String y = "hello";
-//        // x.regaionMatches({x index}, {y string}, {y index}, {length of string that needs matching})
+//        x.regaionMatches({x index}, {y string}, {y index}, {length of string that needs matching})
 //        System.out.println(x.regionMatches(0, y,0,3));
         Part3 p3 = new Part3();
 //        System.out.println(p3.twoOccurrences("a", "banann"));
