@@ -1,3 +1,7 @@
+## Course Website 
+ - https://www.dukelearntoprogram.com//
+
+
 ## Week 2
 
 - `while` loop: When number of iteration is not known
@@ -75,3 +79,22 @@
 - We can achieve this introducing a  storage [List] - Something that can hold all the genes, and all the 
   - operations can be performed using the storage[List]. 
 
+### Null in Java
+
+1. Meaning nothing or no object 
+2. CSVRecord LargestSoFar = null; - This is how you initialize a variable.
+3. return null; - No such answer exist. 
+4. if(largestSoFar == null)
+5. NullPointerException 
+6. Special Null Type
+   7. Literal null has this type 
+   8. Can be converted to any object type
+- Primitive Types - Cannot be null 
+  - What are primitive type?
+    - int, double, char and boolean
+    - byte, short, long, float
+
+- Object Types: Can be null 
+  - FileResource, String, CSVRecord, Pixel
+  - Anything with methods
+  - Any class you write is also an object type. 
